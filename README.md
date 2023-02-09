@@ -7,3 +7,9 @@ In an E-Commerce application, write all the four modules as shown in below:
 1. Design a simple HTML page taking information from the user and show the output.
 2. Take objects, variables, arrays, etc for a single user as per your understanding for the
 whole process.)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Language We Use:
+<b>JAVA</b>
+<b>CSS</b>
+<b>HTML</b>
